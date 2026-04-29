@@ -1,0 +1,71 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: rgb(33, 47, 47);
+}
+#submitBtn{
+    color: rgb(255, 0, 0);
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#submitBtn:hover{
+    background-color: hsl(0, 2%, 10%);
+}
+h1{
+    color: rgb(255, 0, 0);
+}
+form{
+     background-color: rgb(102, 0, 245);
+        padding: 20px;
+        border-radius: 10px;
+        display: inline-block;
+        max-width: 350px;
+        margin: auto;
+        border-radius: 10px;
+        box-shadow: 5px 5px 15px rgba(255, 0, 0, 0.3);
+
+}
+#textbox{
+    background-color: rgb(33, 47, 47);
+    color: white;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    margin: 10px 0;
+    border-radius: 50px;
+}
+label{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+}
+#result{
+    margin-top: 20px;
+    font-size: 1.5em;
+    color: rgb(255, 0, 0);
+}
+#goToConverterBtn{
+    color: rgb(255, 0, 0);
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#goToConverterBtn:hover{
+    background-color: hsl(0, 2%, 10%);
+}
